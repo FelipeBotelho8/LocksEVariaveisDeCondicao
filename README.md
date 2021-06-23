@@ -1,0 +1,2 @@
+# Trabalho 2 de Sistemas Operacionais - _Locks_ e Variáveis de Condição
+Este é o trabalho 2 da disciplina Sistemas Operacionais - UFRJ. Ele consiste em desenvolver programas que solucionem problemas conhecidos de sincronização descritos no livro disponível [aqui](http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf). Foram escolhidos os problemas das seções 5-1, 6-1 e 7-1. Os programas foram implementados com a API _pthread_, utilizando _threads_, _locks_ e variáveis de condição.  
